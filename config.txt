@@ -1,0 +1,3 @@
+url/dbname - localhost:3306/test
+login - testLogin
+password - pass
